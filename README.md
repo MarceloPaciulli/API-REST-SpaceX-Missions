@@ -1,4 +1,4 @@
-#Remember:
+# Remember:
 If you clone the repository, when you open the folder in your code editor, in the console you must first execute the command 'npm install', since this creates the node_modules folder, which is essential for the proper functioning of npm . Finally, you can run the application with the command 'npm start'.
 
 
