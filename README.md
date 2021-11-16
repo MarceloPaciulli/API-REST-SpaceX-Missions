@@ -1,3 +1,8 @@
+
+# API-REST-SpaceX-Missions
+A request is made to the SpaceX REST API, which provides information on space missions, in a specific date range, and selected by the user. The information is presented on cards, with a very simple visual style. The mission title, description, and order number are given, among other basic things.
+
+
 # Remember:
 If you clone the repository, when you open the folder in your code editor, in the console you must first execute the command `npm install`, since this creates the **node_modules** folder, which is essential for the proper functioning of the application. Finally, you can run the application with the command `npm start`.
 
@@ -73,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# API-REST-SpaceX-Missions
+
